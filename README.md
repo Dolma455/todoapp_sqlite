@@ -28,7 +28,11 @@ samples, guidance on mobile development, and a full API reference.
 
 # Output
 
-https://github.com/Dolma455/todolist_app_using_sqlite/assets/119863448/5e09e304-1980-4f2b-a569-b58cd907e8fd
+
+https://github.com/Dolma455/todoapp_sqlite/assets/119863448/bc765060-a8af-4824-ad37-096f059635ab
+
+
+
 
 
 
